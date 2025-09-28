@@ -73,7 +73,7 @@ Isso permitiria filtrar grandes volumes de candidatos de forma automática e efi
    ```bash
    pip install numpy
    ```
-3. Execute o programa:
+ Execute o programa:
 
    ```bash
    python main.py
