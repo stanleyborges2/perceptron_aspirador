@@ -69,8 +69,6 @@ Isso permitiria filtrar grandes volumes de candidatos de forma automática e efi
 
 ## 5. Execução do Código
 
-1. Certifique-se de ter o Python instalado (3.10 ou superior).
-2. Instale as dependências necessárias (nesse caso apenas o `numpy`):
 
    ```bash
    pip install numpy
